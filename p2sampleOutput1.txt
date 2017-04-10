@@ -1,0 +1,154 @@
+[morgana@web proj2]$ <----NOTE: This is just my Linux prompt, and is NOT part of the output of the program!
+[morgana@web proj2]$ g++ -Wall morgana1.cpp -o morgana1
+[morgana@web proj2]$ ./morgana1
+
+1. Enter a sample set of data values
+2. Print the contents of the current sample set
+3. Reset / Provide values for setting up a histogram
+4. Add the contents of current sample set to histogram
+5. Print bin counts contained in histogram
+6. View the histogram in graphical form
+0: Exit the program
+
+Your Choice: 1
+Enter character identifier for this sampling: K
+Enter all samples, then enter -99999 to end:
+1
+1
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+20
+20
+10
+11
+12
+13
+10
+11
+12
+13
+-15
+651
+-99999
+Last Operation Successful: YES
+
+1. Enter a sample set of data values
+2. Print the contents of the current sample set
+3. Reset / Provide values for setting up a histogram
+4. Add the contents of current sample set to histogram
+5. Print bin counts contained in histogram
+6. View the histogram in graphical form
+0: Exit the program
+
+Your Choice: 2
+Data stored for sampling with identifier K:
+  Total Samples: 34
+  Samples (5 samples per line):
+    1   1   1   2   3
+    4   5   6   7   8
+    9   10   11   12   13
+    14   15   16   17   18
+    19   20   20   20   10
+    11   12   13   10   11
+    12   13   -15   651
+Last Operation Successful: YES
+
+1. Enter a sample set of data values
+2. Print the contents of the current sample set
+3. Reset / Provide values for setting up a histogram
+4. Add the contents of current sample set to histogram
+5. Print bin counts contained in histogram
+6. View the histogram in graphical form
+0: Exit the program
+
+Your Choice: 3
+Enter minimum value: 2
+Enter maximum value: 19
+Enter number of bins: 9
+Last Operation Successful: YES
+
+1. Enter a sample set of data values
+2. Print the contents of the current sample set
+3. Reset / Provide values for setting up a histogram
+4. Add the contents of current sample set to histogram
+5. Print bin counts contained in histogram
+6. View the histogram in graphical form
+0: Exit the program
+
+Your Choice: 4
+Last Operation Successful: YES
+
+1. Enter a sample set of data values
+2. Print the contents of the current sample set
+3. Reset / Provide values for setting up a histogram
+4. Add the contents of current sample set to histogram
+5. Print bin counts contained in histogram
+6. View the histogram in graphical form
+0: Exit the program
+
+Your Choice: 5
+Bin <min: 4  (11.7647%)
+Bin    1: 2  (5.88235%)
+Bin    2: 2  (5.88235%)
+Bin    3: 2  (5.88235%)
+Bin    4: 2  (5.88235%)
+Bin    5: 6  (17.6471%)
+Bin    6: 6  (17.6471%)
+Bin    7: 2  (5.88235%)
+Bin    8: 2  (5.88235%)
+Bin    9: 2  (5.88235%)
+Bin >max: 4  (11.7647%)
+Last Operation Successful: YES
+
+1. Enter a sample set of data values
+2. Print the contents of the current sample set
+3. Reset / Provide values for setting up a histogram
+4. Add the contents of current sample set to histogram
+5. Print bin counts contained in histogram
+6. View the histogram in graphical form
+0: Exit the program
+
+Your Choice: 6
+Bin <min: =====
+Bin    1: ==
+Bin    2: ==
+Bin    3: ==
+Bin    4: ==
+Bin    5: ========
+Bin    6: ========
+Bin    7: ==
+Bin    8: ==
+Bin    9: ==
+Bin >max: =====
+Last Operation Successful: YES
+
+1. Enter a sample set of data values
+2. Print the contents of the current sample set
+3. Reset / Provide values for setting up a histogram
+4. Add the contents of current sample set to histogram
+5. Print bin counts contained in histogram
+6. View the histogram in graphical form
+0: Exit the program
+
+Your Choice: 0
+Thanks for using the histogram generator!
+Last Operation Successful: YES
+[morgana@web proj2]$

@@ -1,0 +1,333 @@
+[morgana@web proj2]$ ./morgana1
+
+1. Enter a sample set of data values
+2. Print the contents of the current sample set
+3. Reset / Provide values for setting up a histogram
+4. Add the contents of current sample set to histogram
+5. Print bin counts contained in histogram
+6. View the histogram in graphical form
+0: Exit the program
+
+Your Choice: 7
+Sorry that is an invalid menu choice - try again!
+
+1. Enter a sample set of data values
+2. Print the contents of the current sample set
+3. Reset / Provide values for setting up a histogram
+4. Add the contents of current sample set to histogram
+5. Print bin counts contained in histogram
+6. View the histogram in graphical form
+0: Exit the program
+
+Your Choice: 5
+ERROR: Can not display uninitialized histogram!
+Last Operation Successful: NO
+
+1. Enter a sample set of data values
+2. Print the contents of the current sample set
+3. Reset / Provide values for setting up a histogram
+4. Add the contents of current sample set to histogram
+5. Print bin counts contained in histogram
+6. View the histogram in graphical form
+0: Exit the program
+
+Your Choice: 3
+Enter minimum value: 2
+Enter maximum value: 19
+Enter number of bins: 7
+ERROR: Num bins must evenly divide specified range.
+Last Operation Successful: NO
+
+1. Enter a sample set of data values
+2. Print the contents of the current sample set
+3. Reset / Provide values for setting up a histogram
+4. Add the contents of current sample set to histogram
+5. Print bin counts contained in histogram
+6. View the histogram in graphical form
+0: Exit the program
+
+Your Choice: 2
+ERROR: Can not print uninitialized sampling!
+Last Operation Successful: NO
+
+1. Enter a sample set of data values
+2. Print the contents of the current sample set
+3. Reset / Provide values for setting up a histogram
+4. Add the contents of current sample set to histogram
+5. Print bin counts contained in histogram
+6. View the histogram in graphical form
+0: Exit the program
+
+Your Choice: 1
+Enter character identifier for this sampling: r
+Enter all samples, then enter -99999 to end:
+8
+8
+8
+8
+-99999
+Last Operation Successful: YES
+
+1. Enter a sample set of data values
+2. Print the contents of the current sample set
+3. Reset / Provide values for setting up a histogram
+4. Add the contents of current sample set to histogram
+5. Print bin counts contained in histogram
+6. View the histogram in graphical form
+0: Exit the program
+
+Your Choice: 5
+ERROR: Can not display uninitialized histogram!
+Last Operation Successful: NO
+
+1. Enter a sample set of data values
+2. Print the contents of the current sample set
+3. Reset / Provide values for setting up a histogram
+4. Add the contents of current sample set to histogram
+5. Print bin counts contained in histogram
+6. View the histogram in graphical form
+0: Exit the program
+
+Your Choice: 3
+Enter minimum value: 9
+Enter maximum value: 5
+ERROR: max value must be greater than min value!
+Last Operation Successful: NO
+
+1. Enter a sample set of data values
+2. Print the contents of the current sample set
+3. Reset / Provide values for setting up a histogram
+4. Add the contents of current sample set to histogram
+5. Print bin counts contained in histogram
+6. View the histogram in graphical form
+0: Exit the program
+
+Your Choice: 3
+Enter minimum value: 5
+Enter maximum value: 9
+Enter number of bins: 5
+Last Operation Successful: YES
+
+1. Enter a sample set of data values
+2. Print the contents of the current sample set
+3. Reset / Provide values for setting up a histogram
+4. Add the contents of current sample set to histogram
+5. Print bin counts contained in histogram
+6. View the histogram in graphical form
+0: Exit the program
+
+Your Choice: 5
+Bin <min: 0  (0%)
+Bin    1: 0  (0%)
+Bin    2: 0  (0%)
+Bin    3: 0  (0%)
+Bin    4: 0  (0%)
+Bin    5: 0  (0%)
+Bin >max: 0  (0%)
+Last Operation Successful: YES
+
+1. Enter a sample set of data values
+2. Print the contents of the current sample set
+3. Reset / Provide values for setting up a histogram
+4. Add the contents of current sample set to histogram
+5. Print bin counts contained in histogram
+6. View the histogram in graphical form
+0: Exit the program
+
+Your Choice: 4
+Last Operation Successful: YES
+
+1. Enter a sample set of data values
+2. Print the contents of the current sample set
+3. Reset / Provide values for setting up a histogram
+4. Add the contents of current sample set to histogram
+5. Print bin counts contained in histogram
+6. View the histogram in graphical form
+0: Exit the program
+
+Your Choice: 5
+Bin <min: 0  (0%)
+Bin    1: 0  (0%)
+Bin    2: 0  (0%)
+Bin    3: 0  (0%)
+Bin    4: 4  (100%)
+Bin    5: 0  (0%)
+Bin >max: 0  (0%)
+Last Operation Successful: YES
+
+1. Enter a sample set of data values
+2. Print the contents of the current sample set
+3. Reset / Provide values for setting up a histogram
+4. Add the contents of current sample set to histogram
+5. Print bin counts contained in histogram
+6. View the histogram in graphical form
+0: Exit the program
+
+Your Choice: 4
+Last Operation Successful: YES
+
+1. Enter a sample set of data values
+2. Print the contents of the current sample set
+3. Reset / Provide values for setting up a histogram
+4. Add the contents of current sample set to histogram
+5. Print bin counts contained in histogram
+6. View the histogram in graphical form
+0: Exit the program
+
+Your Choice: 5
+Bin <min: 0  (0%)
+Bin    1: 0  (0%)
+Bin    2: 0  (0%)
+Bin    3: 0  (0%)
+Bin    4: 8  (100%)
+Bin    5: 0  (0%)
+Bin >max: 0  (0%)
+Last Operation Successful: YES
+
+1. Enter a sample set of data values
+2. Print the contents of the current sample set
+3. Reset / Provide values for setting up a histogram
+4. Add the contents of current sample set to histogram
+5. Print bin counts contained in histogram
+6. View the histogram in graphical form
+0: Exit the program
+
+Your Choice: 6
+Bin <min:
+Bin    1:
+Bin    2:
+Bin    3:
+Bin    4: ==================================================
+Bin    5:
+Bin >max:
+Last Operation Successful: YES
+
+1. Enter a sample set of data values
+2. Print the contents of the current sample set
+3. Reset / Provide values for setting up a histogram
+4. Add the contents of current sample set to histogram
+5. Print bin counts contained in histogram
+6. View the histogram in graphical form
+0: Exit the program
+
+Your Choice: 4
+Last Operation Successful: YES
+
+1. Enter a sample set of data values
+2. Print the contents of the current sample set
+3. Reset / Provide values for setting up a histogram
+4. Add the contents of current sample set to histogram
+5. Print bin counts contained in histogram
+6. View the histogram in graphical form
+0: Exit the program
+
+Your Choice: 5
+Bin <min: 0  (0%)
+Bin    1: 0  (0%)
+Bin    2: 0  (0%)
+Bin    3: 0  (0%)
+Bin    4: 12  (100%)
+Bin    5: 0  (0%)
+Bin >max: 0  (0%)
+Last Operation Successful: YES
+
+1. Enter a sample set of data values
+2. Print the contents of the current sample set
+3. Reset / Provide values for setting up a histogram
+4. Add the contents of current sample set to histogram
+5. Print bin counts contained in histogram
+6. View the histogram in graphical form
+0: Exit the program
+
+Your Choice: 6
+Bin <min:
+Bin    1:
+Bin    2:
+Bin    3:
+Bin    4: ==================================================
+Bin    5:
+Bin >max:
+Last Operation Successful: YES
+
+1. Enter a sample set of data values
+2. Print the contents of the current sample set
+3. Reset / Provide values for setting up a histogram
+4. Add the contents of current sample set to histogram
+5. Print bin counts contained in histogram
+6. View the histogram in graphical form
+0: Exit the program
+
+Your Choice: 1
+Enter character identifier for this sampling: q
+Enter all samples, then enter -99999 to end:
+0
+30
+0
+30
+5
+6
+7
+8
+9
+-99999
+Last Operation Successful: YES
+
+1. Enter a sample set of data values
+2. Print the contents of the current sample set
+3. Reset / Provide values for setting up a histogram
+4. Add the contents of current sample set to histogram
+5. Print bin counts contained in histogram
+6. View the histogram in graphical form
+0: Exit the program
+
+Your Choice: 4
+Last Operation Successful: YES
+
+1. Enter a sample set of data values
+2. Print the contents of the current sample set
+3. Reset / Provide values for setting up a histogram
+4. Add the contents of current sample set to histogram
+5. Print bin counts contained in histogram
+6. View the histogram in graphical form
+0: Exit the program
+
+Your Choice: 5
+Bin <min: 2  (9.52381%)
+Bin    1: 1  (4.7619%)
+Bin    2: 1  (4.7619%)
+Bin    3: 1  (4.7619%)
+Bin    4: 13  (61.9048%)
+Bin    5: 1  (4.7619%)
+Bin >max: 2  (9.52381%)
+Last Operation Successful: YES
+
+1. Enter a sample set of data values
+2. Print the contents of the current sample set
+3. Reset / Provide values for setting up a histogram
+4. Add the contents of current sample set to histogram
+5. Print bin counts contained in histogram
+6. View the histogram in graphical form
+0: Exit the program
+
+Your Choice: 6
+Bin <min: ====
+Bin    1: ==
+Bin    2: ==
+Bin    3: ==
+Bin    4: ==============================
+Bin    5: ==
+Bin >max: ====
+Last Operation Successful: YES
+
+1. Enter a sample set of data values
+2. Print the contents of the current sample set
+3. Reset / Provide values for setting up a histogram
+4. Add the contents of current sample set to histogram
+5. Print bin counts contained in histogram
+6. View the histogram in graphical form
+0: Exit the program
+
+Your Choice: 0
+Thanks for using the histogram generator!
+Last Operation Successful: YES
+[morgana@web proj2]$
