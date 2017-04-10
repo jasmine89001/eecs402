@@ -1,0 +1,111 @@
+*** NOTE: "[ XXX ] temp -:" is my Linux prompt.  Lines that start with
+***       this are NOT part of the output of your program, but are
+***       included in this sample output for clarity.
+-----------------------------------------------------------------------------
+[ 201 ] temp -: g++ -Wall project1.cpp -o project1
+[ 202 ] temp -: ./project1
+Player 1: You will enter a secret number for the other player to try to guess
+Enter a number from 1 to 100 (inclusive): 15
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Player 2: You will try to guess the secret number
+Enter a number from 1 to 100 (inclusive): 10
+The secret number is HIGHER than your guess
+Player 2: You will try to guess the secret number
+Enter a number from 1 to 100 (inclusive): 20
+The secret number is LOWER than your guess
+Player 2: You will try to guess the secret number
+Enter a number from 1 to 100 (inclusive): 14
+The secret number is HIGHER than your guess
+Player 2: You will try to guess the secret number
+Enter a number from 1 to 100 (inclusive): 15
+Congratulations!  You guessed it!
+It took you 4 guesses to guess it!
+[ 203 ] temp -: 
+[ 203 ] temp -: 
+[ 203 ] temp -: 
+[ 203 ] temp -: 
+[ 203 ] temp -: ./project1
+Player 1: You will enter a secret number for the other player to try to guess
+Enter a number from 1 to 100 (inclusive): 150
+ERROR: Value is not within valid range.  Try again.
+Enter a number from 1 to 100 (inclusive): -99
+ERROR: Value is not within valid range.  Try again.
+Enter a number from 1 to 100 (inclusive): 15
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Clearing screen!
+Player 2: You will try to guess the secret number
+Enter a number from 1 to 100 (inclusive): -10
+ERROR: Value is not within valid range.  Try again.
+Enter a number from 1 to 100 (inclusive): 10
+The secret number is HIGHER than your guess
+Player 2: You will try to guess the secret number
+Enter a number from 1 to 100 (inclusive): 100
+The secret number is LOWER than your guess
+Player 2: You will try to guess the secret number
+Enter a number from 1 to 100 (inclusive): 101
+ERROR: Value is not within valid range.  Try again.
+Enter a number from 1 to 100 (inclusive): 15
+Congratulations!  You guessed it!
+It took you 3 guesses to guess it!
+[ 204 ] temp -: 
+[ 204 ] temp -: 
+[ 204 ] temp -: 
+[ 204 ] temp -: exit
+
